@@ -1,2 +1,2 @@
 # golang-cod3r
-Repo dos meeus estudos sobre golang
+Repo dos meus estudos sobre golang
